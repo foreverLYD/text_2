@@ -1,0 +1,13 @@
+﻿生成启动时间为 2024/4/9 17:00:37。
+     1>项目“C:\Users\86156\Desktop\总\C++2013\Project3\Project3\Project3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\C\VC\bin\CL.exe /c /I"D:\C\矩阵库（第三方库）\armadillo-9.850.1\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D ARMA_USE_LAPACK /D ARMA_USE_BLAS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+       Link:
+         D:\C\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\86156\Desktop\总\C++2013\Project3\Debug\Project3.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\C\矩阵库（第三方库）\blas_lapack_x86" blas_win32_MTd.lib lapack_win32_MTd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\86156\Desktop\总\C++2013\Project3\Debug\Project3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\86156\Desktop\总\C++2013\Project3\Debug\Project3.lib" /MACHINE:X86 "Debug\源.obj"
+         Project3.vcxproj -> C:\Users\86156\Desktop\总\C++2013\Project3\Debug\Project3.exe
+     1>已完成生成项目“C:\Users\86156\Desktop\总\C++2013\Project3\Project3\Project3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.78
